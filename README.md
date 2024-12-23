@@ -11,12 +11,12 @@ The Smartwatch Companion App is a Flutter-based application designed to monitor 
 - **User Profile**: Displays user information stored in Firebase Firestore.
 
 ## Screenshots
+![Login Screen](https://github.com/user-attachments/assets/f408cfc1-fc31-4cea-a458-1dd0e4bc2b63)
+![Dashboard Screen](https://github.com/user-attachments/assets/fa968d6d-7691-414d-a67d-68869ab95ff2)
+![History Screen](https://github.com/user-attachments/assets/65dec746-3ad6-420c-846a-139411d7850e)
+![Settings Screen](https://github.com/user-attachments/assets/fafad97b-3cc9-4787-bf87-8d2d023ed5bc)
+![User Profile Screen](https://github.com/user-attachments/assets/8cb5f193-0350-46a7-85be-c0d0266d3d84)
 
-![Login Screen](screenshots/login_screen.png)
-![Dashboard Screen](screenshots/dashboard_screen.png)
-![History Screen](screenshots/history_screen.png)
-![Settings Screen](screenshots/settings_screen.png)
-![User Profile Screen](screenshots/user_profile_screen.png)
 
 ## Screen Recording
 
