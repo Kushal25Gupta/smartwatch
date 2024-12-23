@@ -28,7 +28,9 @@ The Smartwatch Companion App is a Flutter-based application designed to monitor 
 
 ## Screen Recording
 
-[Watch the app in action](screen_recordings/app_demo.mp4)
+
+[Watch the app in action] https://github.com/user-attachments/assets/28bd3c2e-2e05-4e16-9449-d7acf31ae093
+
 
 ## UI Design
 
